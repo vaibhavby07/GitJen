@@ -9,4 +9,9 @@ public class Select
    {
 	   System.out.println("Hi");
    }
+   @Test
+	public void mn()
+	{
+		System.out.print("safe journy");
+         }
 }
