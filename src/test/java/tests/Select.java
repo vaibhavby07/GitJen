@@ -2,7 +2,7 @@ package tests;
 
 import org.testng.annotations.Test;
 
-public class Select 
+public class SelectClassABC
 {
    @Test
    public void main2()
